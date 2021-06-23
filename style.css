@@ -1,4 +1,8 @@
 .title {
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 300px;
+}
+button{
+    line-height: 500px;
+    width: 500px;
 }
